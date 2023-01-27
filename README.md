@@ -10,7 +10,7 @@
     My Own ChatGPT AI App in JavaScript | OpenAI, Machine Learning
     <br/>
     <br/>
-    <a href="https://github.com/obocanegra-dev/ReadME-Generator">View Demo</a>
+    <a href="https://codex-lemon.vercel.app/">Live Demo</a>
     .
     <a href="https://github.com/obocanegra-dev/ReadME-Generator/issues">Report Bug</a>
     .
@@ -117,9 +117,3 @@ Distributed under the MIT License. See [LICENSE](https://github.com/obocanegra-d
 ## Authors
 
 * **Oscar Bocanegra** - *Comp Sci Student* - [Oscar Bocanegra](https://github.com/obocanegra-dev/) - *OpenAI CodeX*
-
-## Acknowledgements
-
-* [ShaanCoding](https://github.com/ShaanCoding/)
-* []()
-* [ImgShields](https://shields.io/)
