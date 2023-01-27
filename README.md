@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/obocanegra-dev/ReadME-Generator">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://www.pngitem.com/pimgs/m/66-668806_openai-logo-openai-logo-elon-musk-hd-png.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Open AI CodeX</h3>
